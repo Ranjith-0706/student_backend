@@ -1,0 +1,25 @@
+__pycache__
+venv/
+# .env
+db/
+db
+
+__pycache__
+__init__.py
+assets/*
+center_logo
+
+logs/
+logs
+access.log
+error.log
+
+uploads/
+uploads/*
+
+attachments/
+attachments/*
+
+images/
+images/*
+
